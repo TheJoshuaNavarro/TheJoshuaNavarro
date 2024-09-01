@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**TheJoshuaNavarro/TheJoshuaNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The one and only (not really) Joshua Navarro. I am a college student who is pursuing a double major on Computer Science and Physics... why? Why not. I like computers and I like to think about how our reality works. 
+- :money_with_wings: I’m currently working on creating some programs to help me expand my side hustle that is getting me through college.
+- 🌱 I’m currently learning C++, github, git, and I also want to get a CompTIA A+ Certification. Idk when but I will.
+- 👯 I’m looking to collaborate on making all traffic self driving via government funded program kinda like GPS. Or maybe using crypto technology to create a replacement to the outdated SSN and also tie to our voter registration so we can vote from home and be able to count every single one without worrying about them being duplicated or "hacked".
+- 🤔 I’m looking for help with coding. I admittedly do not code enough. 
+- 💬 Ask me about anything! It could be about gourmet food, comic books, and guitars. Almost any kind of RPG video game like god of war, the last of us, skyrim, no man sky, spider-man. About my all time favorite band System of a Down. but also some Korn, Sublime, Gorillaz, Jack Johnson, Mozart, Bach, Beethoven, Vivaldi, Vicente Fernandez, Los Intocables, Mana, Sin Bandera and many more except country. Willie nelson and Johny cash are cool tho. I can also talk about all kinds of shows and movies, like breaking bad, chernobyl, Invincible, the boys, dark, the office, brooklin 99, parks and recs, Lord of the ring, into the spiderverse, oppenheimer, barbie, predestination, what dreams may come, step brothers, anchorman, THE INVENTION OF LYING. about comedy as well like dave chapelle, shane gylls, bill bur, louis ck, george carlin, ricky gervais. I can almost talk about anything except I don't really know anything about sports.
+- 📫 How to reach me: www.linkedin.com/in/thejoshuanavarro or on reddit u/Mjnavarro91
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My insanely and unrealistic goal is to also study neuroscience and be able to work with those scientist who are mapping the trillions of neuron connections in our brains. I think if we can do that then we can create a copy of our entire mind, including our memories, personality, and our experiences. Some philosophers might argue that a copy would not be "us" but I say it is close enough and that it beats being dead and non existant for an eternity. Besides, I can't wait to load up my mind to skyrim and use all kinds of mods. 
